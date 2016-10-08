@@ -1,0 +1,15 @@
+{
+  "name": "react1",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-native": "^0.32.0",
+    "react-native-drawer": "^2.3.0",
+    "react-native-material-kit": "^0.3.2",
+    "react-native-swipe-cards": "0.0.9"
+  }
+}

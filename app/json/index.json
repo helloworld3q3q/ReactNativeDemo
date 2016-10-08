@@ -1,0 +1,151 @@
+{
+    "banner": {
+        "item":[
+            {
+                "img":"images/tmp/1.jpg", 
+                "url":"www.baidu.com"
+            },
+            {
+                "img":"images/tmp/2.jpg",
+                "url":"http://www.sina.com.cn/"
+            },
+            {
+                "img":"images/tmp/3.jpg",
+                "url":"http://www.qq.com/"
+            }
+        ]
+    }, 
+    "addr":{
+        "nowaddr":{
+            "longitude":104.061854,
+            "latitude":34.645081,
+            "name":"成都"
+        },
+        "item":[
+            {
+                "longitude":104.061854,
+                "latitude":34.645081,
+                "name":"成都"
+            },
+            {
+                "longitude":104.392543,
+                "latitude":30.848829,
+                "name":"金堂"
+            },
+            {
+                "longitude":104.061854,
+                "latitude":30.645081,
+                "name":"南门"
+            },
+            {
+                "longitude":104.187771,
+                "latitude":30.575614,
+                "name":"龙泉"
+            },
+            {
+                "longitude":104.264138,
+                "latitude":30.891853,
+                "name":"青白江"
+            },
+            {
+                "longitude":103.971186,
+                "latitude":30.82062,
+                "name":"郫县"
+            }
+
+        ]
+    },
+    "coupon": {
+        "item": [
+            {
+                "time": "2016.01.01-2017.05.14", 
+                "money": 787, 
+                "use": 7878, 
+                "isGet": 0, 
+                "url": "http://mall.e-wj.dev:40080/store/41"
+            }, 
+            {
+                "time": "2016.01.01-2017.05.14 ", 
+                "money": 787, 
+                "use": 7878, 
+                "isGet": 1, 
+                "url": "http://mall.e-wj.dev:40080/store/44"
+            }
+        ]
+    }, 
+    "dazhe": {
+        "item": [
+            {
+                "url": "http://mall.e-wj.dev:40080/ka/101", 
+                "jiage": 1000, 
+                "use": 1200
+            }, 
+            {
+                "url": "http://mall.e-wj.dev:40080/ka/102", 
+                "jiage": 1800, 
+                "use": 12200
+            }
+        ]
+    }, 
+    "tejia": {
+        "item": [
+            {
+                "url": "http://mall.e-wj.dev:40080/ware/43", 
+                "img": "http://static.e-wj.intra/store/ware/b5/fd/b58657de15ebc358567cdc9f01ed2f2cf92841fd.png", 
+                "name": "test_TOTO 卫浴抽_43_特卖", 
+                "nowMoney": 40, 
+                "oldMoeny": 45
+            }, 
+            {
+                "url": "http://mall.e-wj.dev:40080/ware/43", 
+                "img": "http://static.e-wj.intra/store/ware/74/9d/74d70d9cb710a05b494b88cd271652d34bcf139d.png", 
+                "name": "test_TOTO 卫浴抽_43_特卖", 
+                "nowMoney": 40, 
+                "oldMoeny": 45
+            },
+            {
+                "url": "http://mall.e-wj.dev:40080/ware/43", 
+                "img": "http://static.e-wj.intra/store/ware/b5/fd/b58657de15ebc358567cdc9f01ed2f2cf92841fd.png", 
+                "name": "test_TOTO 卫浴抽_43_特卖", 
+                "nowMoney": 40, 
+                "oldMoeny": 45
+            }, 
+            {
+                "url": "http://mall.e-wj.dev:40080/ware/43", 
+                "img": "http://static.e-wj.intra/store/ware/74/9d/74d70d9cb710a05b494b88cd271652d34bcf139d.png", 
+                "name": "test_TOTO 卫浴抽_43_特卖", 
+                "nowMoney": 40, 
+                "oldMoeny": 45
+            }
+        ]
+    }, 
+    "tuijian": {
+        "item": [
+            {
+                "url": "http://mall.e-wj.dev:40080/store/47", 
+                "img": "http://static.e-wj.intra/store/ware/b5/fd/b58657de15ebc358567cdc9f01ed2f2cf92841fd.png", 
+                "name": "你好"
+            }, 
+            {
+                "url": "http://mall.e-wj.dev:40080/store/47", 
+                "img": "http://static.e-wj.intra/store/ware/b5/fd/b58657de15ebc358567cdc9f01ed2f2cf92841fd.png", 
+                "name": "你好"
+            }, 
+            {
+                "url": "http://mall.e-wj.dev:40080/store/47", 
+                "img": "http://static.e-wj.intra/store/ware/b5/fd/b58657de15ebc358567cdc9f01ed2f2cf92841fd.png", 
+                "name": "你好"
+            }, 
+            {
+                "url": "http://mall.e-wj.dev:40080/store/1063", 
+                "img": "http://static.e-wj.intra/store/ware/d2/b8/d271f68513cdc28113e2a96383e38c6b7a199cb8.png", 
+                "name": "nimei"
+            }, 
+            {
+                "url": "http://mall.e-wj.dev:40080/store/1078", 
+                "img": "http://static.e-wj.intra/store/ware/12/47/1284849fbfb00d4e00ce90bc089c1ec8b656d347.jpg", 
+                "name": "kao"
+            }
+        ]
+    }
+}

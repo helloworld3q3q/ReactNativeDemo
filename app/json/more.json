@@ -1,0 +1,42 @@
+{
+    "addr":{
+        "nowaddr":{
+            "longitude":104.061854,
+            "latitude":34.645081,
+            "name":"成都"
+        },
+        "item":[
+            {
+                "longitude":104.061854,
+                "latitude":34.645081,
+                "name":"成都"
+            },
+            {
+                "longitude":104.392543,
+                "latitude":30.848829,
+                "name":"金堂"
+            },
+            {
+                "longitude":104.061854,
+                "latitude":30.645081,
+                "name":"南门"
+            },
+            {
+                "longitude":104.187771,
+                "latitude":30.575614,
+                "name":"龙泉"
+            },
+            {
+                "longitude":104.264138,
+                "latitude":30.891853,
+                "name":"青白江"
+            },
+            {
+                "longitude":103.971186,
+                "latitude":30.82062,
+                "name":"郫县"
+            }
+
+        ]
+    }
+}
